@@ -7,3 +7,5 @@ spring:
         git:
           clone-on-start: true
           uri: https://github.com/Abhi-joshi/microservices-config.git
+encrypt:
+  key: master
