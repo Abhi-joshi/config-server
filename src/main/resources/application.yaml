@@ -6,4 +6,4 @@ spring:
       server:
         git:
           clone-on-start: true
-          uri: git@github.com:Abhi-joshi/microservices-config.git
+          uri: https://github.com/Abhi-joshi/microservices-config.git
